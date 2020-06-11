@@ -1,0 +1,6 @@
+Controls:
+	W, A, S, D - To Move
+	Space - To Jump
+	Escape - Ingame Controls Menu
+	Left Click - Left Hand Grab
+	Right Click - Right Hand Grab
